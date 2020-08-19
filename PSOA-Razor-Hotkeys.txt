@@ -1,0 +1,74 @@
+Spells
+	Attack Spells (Q,W,E,R)
+		e-bolt - Q
+		explosion - W
+		flame strike - E
+		lightning - shift-Q
+		fireball - shift-W
+		paralyze - shift-E
+		chain lightning - ctrl-Q
+		meteor storm - ctrl-Q
+		
+	Defense Spells (A,S,D, F)
+		smart heal - A
+		cure - shift-A
+		invisibility - ctrl-A
+		recall - S
+		gate - shift-S
+		recall home spell macro - ctrl-S
+		health potion - D
+		cure potion - shift-D
+		refresh potion - ctrl-D
+		agility - F
+		strength - shift-F
+		
+		plowpouch - f12
+		recall home from runebook - f11
+		
+	
+Spell icons pull from spellbook and put on screen
+	resurection - gui
+	reveal - gui
+	magic reflection
+	reactive armor - gui
+	bless - gui
+	arch protection - gui
+	mark rune - gui 
+	protection - gui
+	magic trap - gui
+	
+
+Skills (Z,X,C) - this is based on the skills chosen for your character.  
+Here is an example Bard Tamer:
+	animal taming - Z
+	provocation - X
+	peacemaking - C
+	animal lore - shift-Z
+	meditation - shift-X
+	
+
+Macros
+	Arm/Disarm - G
+	Dress - shift-G
+	accept party invitation - P
+	Organizer Agent-01 - ]
+	Organizer Agent-02 - ctrl-]
+	set loadout bag - \
+	loadout resources (arrows, regents, bandages) - [
+
+Targetting
+	target self - 1
+	target last target - 2
+	target friend One - 3
+	target friend Two - 4
+	
+	last object - 
+
+GUI
+  Paperdoll alt - p
+  skills alt-k
+  backpack alt-i
+  minimap alt-r
+  
+  
+
