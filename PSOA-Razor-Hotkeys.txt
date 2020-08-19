@@ -12,14 +12,14 @@ Spells
 	Defense Spells (A,S,D, F)
 		smart heal - A
 		cure - shift-A
-		invisibility - ctrl-A
+		invisibility - F
 		recall - S
 		gate - shift-S
 		recall home spell macro - ctrl-S
 		health potion - D
 		cure potion - shift-D
 		refresh potion - ctrl-D
-		agility - F
+		agility - ctrl-F
 		strength - shift-F
 		
 		plowpouch - f12
