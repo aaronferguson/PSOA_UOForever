@@ -1,0 +1,9 @@
+Assistant.Macros.IfAction|3|-1|0
+Assistant.Macros.DoubleClickTypeAction|3847|True
+Assistant.Macros.ElseAction
+Assistant.Macros.IfAction|0|0|70
+Assistant.Macros.DoubleClickTypeAction|3852|True
+Assistant.Macros.ElseAction
+Assistant.Macros.DoubleClickTypeAction|3851|True
+Assistant.Macros.EndIfAction
+Assistant.Macros.EndIfAction
