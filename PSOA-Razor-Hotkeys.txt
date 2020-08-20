@@ -5,7 +5,7 @@ Spells
 		energy bolt - E
 		explosion - shift-E
 		lightning - R
-		magic arrow - shift-R
+		harm - shift-R
 		
 	Defense Spells (A,S,D, F)
 		smart heal - A
