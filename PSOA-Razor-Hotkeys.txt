@@ -52,15 +52,15 @@ Macros
 	Organizer Agent-01 - ]
 	Organizer Agent-02 - ctrl-]
 	set loadout bag - \
-	loadout resources (arrows, regents, bandages) - [
+	loadout resources (arrows, regents, bandages, potions) - [
 
 Targetting
 	target self - 1
 	target last target - 2
-	target friend One - 3
+	target friend One - 3 
 	target friend Two - 4
 	
-	last object - 
+	last object - ctrl-1
 
 GUI
   Paperdoll alt - p
