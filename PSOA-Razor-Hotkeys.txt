@@ -36,8 +36,9 @@ Macros
 	accept party invitation - P
 	Organizer Agent-01 - [    (Regents)
 	Organizer Agent-02 - ]   (Gems)
-	set loadout bag - ctrl-\
-	loadout resources (arrows, regents, bandages, potions) - \
+	Organizer Agent-03 - shift-[ (User defined)
+	Set Restock Agent-01 - \  (resources (arrows, regents, bandages, potions)
+	Set Restock HotBag-01- ctrl-\
 
 Targetting
 	target self - 1
