@@ -47,7 +47,7 @@ Here is an example Bard Tamer:
 
 Macros
 	Arm/Disarm - G
-	Dress - shift-G
+	Dress - H
 	accept party invitation - P
 	Organizer Agent-01 - ]
 	Organizer Agent-02 - ctrl-]
