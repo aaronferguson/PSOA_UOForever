@@ -2,12 +2,10 @@ Spells
 	Attack Spells (Q,W,E,R)
 		energy bolt - Q
 		explosion - W
-		flame strike - E
+		paralyze - E
+		flame strike - shift-E
 		lightning - shift-Q
-		fireball - shift-W
-		paralyze - shift-E
-		chain lightning - ctrl-Q
-		meteor storm - ctrl-W
+		fireball - ctrl-W
 		
 	Defense Spells (A,S,D, F)
 		smart heal - A
@@ -25,10 +23,10 @@ Spells
 
 Skills (Z,X,C) - this is based on the skills chosen for your character.  
 Here is an example Bard Tamer:
-	animal taming - Z
-	provocation - X
-	peacemaking - C
-	animal lore - shift-Z
+	animal taming - C
+	provocation - Z
+	peacemaking - shift-Z
+	animal lore - shift-C
 	meditation - shift-X
 	
 
@@ -36,10 +34,10 @@ Macros
 	Arm/Disarm - G
 	Dress - H
 	accept party invitation - P
-	Organizer Agent-01 - ]
-	Organizer Agent-02 - ctrl-]
-	set loadout bag - \
-	loadout resources (arrows, regents, bandages, potions) - [
+	Organizer Agent-01 - [    (Regents)
+	Organizer Agent-02 - ]   (Gems)
+	set loadout bag - ctrl-\
+	loadout resources (arrows, regents, bandages, potions) - \
 
 Targetting
 	target self - 1
