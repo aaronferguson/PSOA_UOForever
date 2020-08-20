@@ -31,7 +31,8 @@ Here is an example Bard Tamer:
 	
 
 Macros
-	Arm/Disarm - G
+	Arm/Disarm Left Hand - G   (two handed and one-handed weapons)
+	Arm/Disarm Right Hand - shift-G  (shields)
 	Dress - H
 	accept party invitation - P
 	Organizer Agent-01 - [    (Regents)
