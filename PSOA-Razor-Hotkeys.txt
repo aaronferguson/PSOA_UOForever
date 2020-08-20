@@ -12,8 +12,8 @@ Spells
 		cure - shift-A
 		invisibility - D
 		recall - S
-		gate - shift-S
-		recall home spell macro - ctrl-S
+		recall home spell macro - shift-S
+		gate - ctrl-alt-S
 		smart potion - F
 		agility - shift-F
 		strength - ctrl-F
