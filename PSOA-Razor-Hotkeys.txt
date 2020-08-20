@@ -22,19 +22,6 @@ Spells
 		
 		plowpouch - f12
 		recall home from runebook - f11
-		
-	
-Spell icons pull from spellbook and put on screen
-	resurection - gui
-	reveal - gui
-	magic reflection
-	reactive armor - gui
-	bless - gui
-	arch protection - gui
-	mark rune - gui 
-	protection - gui
-	magic trap - gui
-	
 
 Skills (Z,X,C) - this is based on the skills chosen for your character.  
 Here is an example Bard Tamer:
@@ -68,5 +55,14 @@ GUI
   backpack alt-i
   minimap alt-r
   
-  
+Spell icons pull from spellbook and put on screen
+	resurection - gui
+	reveal - gui
+	magic reflection
+	reactive armor - gui
+	bless - gui
+	arch protection - gui
+	mark rune - gui 
+	protection - gui
+	magic trap - gui  
 
