@@ -1,13 +1,13 @@
 Spells
 	Attack Spells (Q,W,E,R)
-		e-bolt - Q
+		energy bolt - Q
 		explosion - W
 		flame strike - E
 		lightning - shift-Q
 		fireball - shift-W
 		paralyze - shift-E
 		chain lightning - ctrl-Q
-		meteor storm - ctrl-Q
+		meteor storm - ctrl-W
 		
 	Defense Spells (A,S,D, F)
 		smart heal - A
