@@ -37,7 +37,7 @@ Macros
 	Organizer Agent-01 - [    (Regents)
 	Organizer Agent-02 - ]   (Gems)
 	Organizer Agent-03 - shift-[ (User defined)
-	Restock Agent-01 - \  (resources (arrows, regents, bandages, potions)
+	Restock Agent-01 - \  (arrows, regents, bandages, potions)
 	Set Restock HotBag-01- ctrl-\
 
 Targetting
