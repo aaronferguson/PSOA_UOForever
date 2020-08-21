@@ -10,13 +10,15 @@ Spells
 	Defense Spells (A,S,D, F)
 		smart heal - A
 		cure - shift-A
+		greater heal - S
+		heal - shift-S
 		invisibility - D
-		recall - S
-		recall home spell macro - shift-S
-		gate - ctrl-alt-S
-		smart potion - F
-		agility - shift-F
-		strength - ctrl-F
+		recall - F
+		recall home spell macro - shift-F
+		gate - ctrl-alt-F
+		smart potion - V
+		agility - shift-V
+		strength - ctrl-V
 		
 		plowpouch - f12
 		recall home from runebook - f11
