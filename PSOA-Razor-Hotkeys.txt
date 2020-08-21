@@ -46,8 +46,7 @@ Macros
 Targetting
 	target self - 1
 	target last target - 2
-	target friend One - 3 
-	target friend Two - 4
+	target closest non-friendly - 3
 	
 	last object - ctrl-1
 
