@@ -27,7 +27,7 @@ Skills (Z,X,C) - this is based on the skills chosen for your character.
 Here is an example Bard Tamer:
 	animal taming - C
 	provocation - Z
-	peacemaking - shift-Z
+	peacemaking - X
 	animal lore - shift-C
 	meditation - shift-X
 	
